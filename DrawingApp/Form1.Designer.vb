@@ -94,9 +94,9 @@ Partial Class Form1
         '
         'Button4
         '
-        Me.Button4.Location = New System.Drawing.Point(675, 300)
+        Me.Button4.Location = New System.Drawing.Point(679, 250)
         Me.Button4.Name = "Button4"
-        Me.Button4.Size = New System.Drawing.Size(75, 23)
+        Me.Button4.Size = New System.Drawing.Size(234, 146)
         Me.Button4.TabIndex = 6
         Me.Button4.Text = "clear"
         Me.Button4.UseVisualStyleBackColor = True
